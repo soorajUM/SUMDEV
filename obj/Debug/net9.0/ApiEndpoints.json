@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SUM.Controllers.expenceController",
+    "Method": "AddExpence",
+    "RelativePath": "expences",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expence",
+        "Type": "SUM.Models.Expence",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SUM.Controllers.expenceController",
+    "Method": "GetExpences",
+    "RelativePath": "expences",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
