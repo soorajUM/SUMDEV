@@ -58,12 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -74,8 +70,7 @@
               "RelativeToolTip": "Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T11:52:19.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:52:19.439Z"
             },
             {
               "$type": "Document",
@@ -87,8 +82,7 @@
               "RelativeToolTip": "Controllers\\ExpenseController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:18:44.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:18:44.945Z"
             },
             {
               "$type": "Document",
@@ -100,8 +94,7 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwBMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T04:37:57.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T04:37:57.696Z"
             },
             {
               "$type": "Document",
@@ -113,8 +106,7 @@
               "RelativeToolTip": "Views\\Expense\\Expense.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T11:11:01.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:11:01.369Z"
             },
             {
               "$type": "Document",
@@ -126,8 +118,7 @@
               "RelativeToolTip": "Models\\Expence.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:22:27.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:22:27.217Z"
             },
             {
               "$type": "Document",
@@ -139,8 +130,7 @@
               "RelativeToolTip": "Data\\ExpenseContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:13:58.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:13:58.618Z"
             },
             {
               "$type": "Document",
@@ -150,7 +140,7 @@
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "D:\\Users\\afsal\\source\\repos\\SUM\\SUM\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-30T10:37:51.43Z",
               "EditorCaption": ""
@@ -165,8 +155,7 @@
               "RelativeToolTip": "Migrations\\sumAppContextModelSnapshot.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:30:04.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:30:04.995Z"
             },
             {
               "$type": "Document",
@@ -178,8 +167,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:33:33.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:33:33.171Z"
             },
             {
               "$type": "Document",
@@ -191,8 +179,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-30T11:38:38.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:38:38.149Z"
             },
             {
               "$type": "Document",
@@ -204,8 +191,7 @@
               "RelativeToolTip": "Migrations\\20250428094543_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:29:18.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:29:18.938Z"
             },
             {
               "$type": "Document",
@@ -217,8 +203,11 @@
               "RelativeToolTip": "Migrations\\20250428094543_InitialCreate.Designer.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAD4vzQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T11:29:42.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T11:29:42.959Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
