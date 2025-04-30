@@ -12,7 +12,7 @@ namespace SUM.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Expences",
+                name: "Expenses",
                 columns: table => new
                 {
                     id = table.Column<int>(type: "integer", nullable: false)
@@ -25,7 +25,7 @@ namespace SUM.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Expences", x => x.id);
+                    table.PrimaryKey("PK_Expenses", x => x.id);
                 });
         }
 
@@ -33,7 +33,7 @@ namespace SUM.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Expences");
+                name: "Expenses");
         }
     }
 }

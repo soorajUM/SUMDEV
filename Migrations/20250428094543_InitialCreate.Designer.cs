@@ -9,7 +9,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace SUM.Migrations
 {
-    [DbContext(typeof(sumAppContext))]
+    [DbContext(typeof(ExpenseContext))]
     [Migration("20250428094543_InitialCreate")]
     partial class InitialCreate
     {
@@ -23,7 +23,7 @@ namespace SUM.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("SUM.Models.Expence", b =>
+            modelBuilder.Entity("SUM.Models.Expense", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -50,7 +50,7 @@ namespace SUM.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("Expences");
+                    b.ToTable("Expenses");
                 });
 #pragma warning restore 612, 618
         }

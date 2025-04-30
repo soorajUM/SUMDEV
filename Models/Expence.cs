@@ -3,8 +3,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SUM.Models
 {
-    [Table("expences")]
-    public class Expence
+    [Table("Expenses")]
+    public class Expense
     {
         [Key]
         public Guid id { get; set; }

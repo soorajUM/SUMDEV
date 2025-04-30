@@ -8,7 +8,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace SUM.Migrations
 {
-    [DbContext(typeof(sumAppContext))]
+    [DbContext(typeof(ExpenseContext))]
     partial class sumAppContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
@@ -20,7 +20,7 @@ namespace SUM.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("SUM.Models.Expence", b =>
+            modelBuilder.Entity("SUM.Models.Expense", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
